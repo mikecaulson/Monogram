@@ -9,7 +9,7 @@ public class monogram
     Scanner mono = new Scanner(System.in);
     
     String first, middle, last;
-
+    //hello there
     System.out.println("This is a program to generate a monogram.");
     System.out.println("What is your first name? ");
     first = mono.next();
